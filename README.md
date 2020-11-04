@@ -9,7 +9,9 @@ int main()
 
 <img align="right" width="30%" alt="my profile picture" src="images_icons/me.jpg">
 
-asd
+### About me
+I'm currently a computer science student, doing my bachelor from University of karachi- UBIT department. Mastering my skills in python and it's library that are related to Aritifical Intelligence like numpy, matplotlib, tensorflow etc.
+
 
   <!--
   **omer-anzar/omer-anzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
