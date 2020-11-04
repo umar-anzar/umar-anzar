@@ -25,10 +25,9 @@ int main()
   Through Email             : omer.anzar2@gmail.com, omeranzar@yahoo.com
 
   Through Social Platforms  : [Facebook](https://www.facebook.com/omer.anzar.7/), [Twitter](https://twitter.com/paradox_omer), and [Linkedin](https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa/).
-  
-  <a href="https://www.facebook.com/omer.anzar.7/" target="_blank"> <image src="images_icons/facebookicon.png" width = "32px"></a>
- 
-  
+
+ [<image src="images_icons/facebookicon.png" width = "32px">](https://www.facebook.com/omer.anzar.7/){:target="_blank" rel="noopener"}
+  <a href="http://google.com/" target="_blank">Hello, world!</a>
   return 0;
 
 }
