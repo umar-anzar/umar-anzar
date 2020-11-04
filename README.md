@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## How to contact me
+
+```
+E-mail accounts   : omer.anzar2@gmail.com
+Social Platforms  : Facebook, Twitter, and Linkdin.
+
+```
