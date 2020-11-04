@@ -26,7 +26,7 @@ int main()
 
   Through Social Platforms  : [Facebook](https://www.facebook.com/omer.anzar.7/), [Twitter](https://twitter.com/paradox_omer), and [Linkedin](https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa/).
 
- [<image src="images_icons/facebookicon.png">](https://www.facebook.com/omer.anzar.7/) [<image src="images_icons/twittericon.png">]((https://twitter.com/paradox_omer/)
+ [<image src="images_icons/facebookicon.png">](https://www.facebook.com/omer.anzar.7/) [<image src="images_icons/twittericon.png">](https://twitter.com/paradox_omer)
 
 
   return 0;
