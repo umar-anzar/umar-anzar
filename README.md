@@ -5,6 +5,12 @@ int main()
 {
   <h1 align="center">Welcome To My Github Profile</h1>
 
+## Muhammad Umar Anzar
+
+<img align="right" width="30%" alt="my profile picture" src="images_icons/me.jpg">
+
+asd
+
   <!--
   **omer-anzar/omer-anzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
