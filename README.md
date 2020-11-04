@@ -3,7 +3,7 @@
 int main()
 
 {
-  # Welcome To My Github Profile
+  <h1 align="center">Welcome To My Github Profile</h1>
 
   <!--
   **omer-anzar/omer-anzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
