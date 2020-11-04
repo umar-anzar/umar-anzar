@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## How to contact me
 
-```
 E-mail accounts   : omer.anzar2@gmail.com
 Social Platforms  : [Facebook](https://www.facebook.com/omer.anzar.7/), [Twitter](https://twitter.com/paradox_omer), and [Linkedin](https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa/).
 
-```
+
