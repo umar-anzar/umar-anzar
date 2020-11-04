@@ -20,11 +20,6 @@ int main()
   - ⚡ Fun fact: ...
   -->
 
-  ## How To Reach Me
-
-  Through Email             : omer.anzar2@gmail.com, omeranzar@yahoo.com
-
-  Through Social Platforms  : [Facebook](https://www.facebook.com/omer.anzar.7/), [Twitter](https://twitter.com/paradox_omer), and [Linkedin](https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa/).
 
   <h2 align="center">How To Reach Me</h2>
   <p align ="center">
