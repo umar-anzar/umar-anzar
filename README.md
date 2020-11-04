@@ -20,7 +20,7 @@ int main()
   - ⚡ Fun fact: ...
   -->
 
-  ## How To Contact Me
+  ## How To Reach Me
 
   Through Email             : omer.anzar2@gmail.com, omeranzar@yahoo.com
 
