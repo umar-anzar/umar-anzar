@@ -10,7 +10,7 @@ int main()
 <img align="right" width="30%" alt="my profile picture" src="images_icons/me.jpg">
 
 ## About me
-I'm currently a computer science student, doing my bachelor from University of karachi- UBIT department. Mastering my skills in python and it's library that are related to Aritifical Intelligence like numpy, matplotlib, tensorflow etc.
+I'm currently a computer science student, doing my bachelor's from the University of Karachi- UBIT department. Mastering my skills in python and its library that are related to Artificial Intelligence like NumPy, matplotlib, TensorFlow, etc.
 
 > ### Skills
 
