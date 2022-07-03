@@ -44,35 +44,33 @@ Python for Data Science by IBM (Coursera)
 <hr>
 
 > ### Skill Highlights
->> Python
->>
->> JavaScript
->>
->> Java
->>
->> Basic Front-end of web development
+> - Python
+>
+> - JavaScript
+>
+> - Java
+>
+> - Basic Front-end of web development
 
 > ### Education
->> Bachelors in Computer Science 
+> - Bachelors in Computer Science 
 University of Karachi | UBIT
 2020- ongoing
->>
->> Intermediate (Pre-engineering)         
+>
+> - Intermediate (Pre-engineering)         
 DA SKBZ College | Karachi
 2017-2019
->>
->> Cambridge O level                                   
+>
+> - Cambridge O level                                   
 The Oasys School | Karachi
 2015-2017 
 
 
 
 > ### Contanct Info
->> Phone
-+92 317 2456854
->>
->> Email
-omer.anzar2@gmail.com
+> **Phone**: +92 317 2456854
+>
+> **Email**: omer.anzar2@gmail.com
 
 
   <!--
