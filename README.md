@@ -1,18 +1,44 @@
-#include <myportfolio.h>
+<h1 align="center">Welcome To My Github Profile</h1>
 
-int main()
-
-{
-  <h1 align="center">Welcome To My Github Profile</h1>
-
-## Muhammad Umar Anzar
+# Muhammad Umar Anzar
 
 <img align="right" width="30%" alt="my profile picture" src="images_icons/me.jpg">
 
 ## About me
-I'm currently a computer science student, doing my bachelor's from the University of Karachi- UBIT department. Mastering my skills in python and its library that are related to Artificial Intelligence like NumPy, matplotlib, TensorFlow, etc.
+I am currently doing my bachelor's in computer science. I have a good understanding of programming languages and the fundamentals of Artificial intelligence. My working experience with Python libraries has been exceptional. With my hard work and determination, I can make a difference in this profession.
 
-> ### Skills
+<hr>
+
+> ### Skill Highlights
+>> Python
+>>
+>> JavaScript
+>>
+>> Java
+>>
+>> Basic Front-end of web development
+
+> ### Education
+>> Bachelors in Computer Science 
+University of Karachi | UBIT
+2020- ongoing
+>>
+>> Intermediate (Pre-engineering)         
+DA SKBZ College | Karachi
+2017-2019
+>>
+>> Cambridge O level                                   
+The Oasys School | Karachi
+2015-2017 
+
+
+
+> ### Contanct Info
+>> Phone
++92 317 2456854
+>>
+>> Email
+omer.anzar2@gmail.com
 
 
   <!--
