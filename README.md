@@ -9,23 +9,27 @@ I am currently doing my bachelor's in computer science. I have a good understand
 
 ## Projects
 
-<details>
+<details open>
   <summary><b>Computer Vision and Object Detection API</b></summary>
   <p>A PYQT-based GUI hand gesture recognition application that interprets human hand gestures to form words that are then turned into sentences using Key2Text.</p>
 </details>
-<details>
+
+<details open>
   <summary><b>Object-Oriented Programming Application (Hazir)</b></summary>
   <p>A service-providing application prototype built in Java Swing GUI using SQLite as the database.</p>
 </details>
-<details>
+
+<details open>
   <summary><b>Finite State Machines Turn Based Game (Finite Ball)</b></summary>
   <p>A two-player 2D soccer game similar to air hockey, with transition-based movement and actual In-elastic collision physics.</p>
 </details>
-<details>
+
+<details open>
   <summary><b>Python Discord API (Galileo)</b></summary>
   <p>A Heroku-hosted Discord bot with some of my own custom basic commands.</p>
 </details>
-<details>
+
+<details open>
   <summary><b>Python GUI application using PYQT5</b></summary>
   <p>Simple FTP file backup application that connects to the server and downloads all files recursively for backup.</p>
 </details>
