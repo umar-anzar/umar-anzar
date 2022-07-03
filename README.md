@@ -34,6 +34,12 @@ I am currently doing my bachelor's in computer science. I have a good understand
   <p>Simple FTP file backup application that connects to the server and downloads all files recursively for backup.</p>
 </details>
 
+## Certifications
+HTML | CSS | JS | Responsive Design by University of Michigan (Coursera)
+
+Python for Data Science by IBM (Coursera)
+
+
 
 <hr>
 
@@ -85,21 +91,15 @@ omer.anzar2@gmail.com
   -->
 
 
-  <h2 align="center">How To Reach Me</h2>
-  <p align ="center">
-    <a href="mailto:omer.anzar2@gmail.com">
-      <image align="center" src="images_icons/facebookicon.png" width="64 px" alt="Umar's Email">
-    </a>
-    <a href="https://www.facebook.com/omer.anzar.7/">
-      <image align="center" src="images_icons/facebookicon.png" width="64 px" alt="Umar's facebook account">
-    </a>
-    <a href="images_icons/twittericon.png">
-      <image align="center" src="images_icons/twittericon.png" width="64 px" alt="Umar's twitter account">
-    </a>  
-  </p>
-
-
-  return 0;
-
-}
-
+<h2 align="center">How To Reach Me</h2>
+<p align ="center">
+  <a href="mailto:omer.anzar2@gmail.com">
+    <image align="center" src="images_icons/facebookicon.png" width="64 px" alt="Umar's Email">
+  </a>
+  <a href="https://www.facebook.com/omer.anzar.7/">
+    <image align="center" src="images_icons/facebookicon.png" width="64 px" alt="Umar's facebook account">
+  </a>
+  <a href="images_icons/twittericon.png">
+    <image align="center" src="images_icons/twittericon.png" width="64 px" alt="Umar's twitter account">
+  </a>  
+</p>
