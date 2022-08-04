@@ -91,13 +91,16 @@ The Oasys School | Karachi
 
 <h2 align="center">How To Reach Me</h2>
 <p align ="center">
-  <a href="mailto:omer.anzar2@gmail.com">
-    <image align="center" src="images_icons/facebookicon.png" width="64 px" alt="Umar's Email">
+  <a href="mailto:omer.anzar2@gmail.com" target="_blank">
+    <image align="center" src="images_icons/gmail.png" width="64 px" alt="Umar's Email">
   </a>
-  <a href="https://www.facebook.com/omer.anzar.7/">
-    <image align="center" src="images_icons/facebookicon.png" width="64 px" alt="Umar's facebook account">
+  <a href="https://www.facebook.com/omer.anzar.7/" target="_blank">
+    <image align="center" src="images_icons/facebook-social-logo.png" width="64 px" alt="Umar's facebook account">
   </a>
-  <a href="images_icons/twittericon.png">
-    <image align="center" src="images_icons/twittericon.png" width="64 px" alt="Umar's twitter account">
+  <a href="https://twitter.com/paradox_omer" target="_blank">
+    <image align="center" src="images_icons/twitter.png" width="64 px" alt="Umar's twitter account">
+  </a>
+   <a href=https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa/" target="_blank">
+    <image align="center" src="images_icons/linkedin.png" width="64 px" alt="Umar's twitter account">
   </a>  
 </p>
