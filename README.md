@@ -100,7 +100,7 @@ The Oasys School | Karachi
   <a href="https://twitter.com/paradox_omer" target="_blank">
     <image align="center" src="images_icons/twitter.png" width="64 px" alt="Umar's twitter account">
   </a>
-   <a href=https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa/" target="_blank">
+   <a  target="_blank" href=https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa">
     <image align="center" src="images_icons/linkedin.png" width="64 px" alt="Umar's twitter account">
   </a>  
 </p>
