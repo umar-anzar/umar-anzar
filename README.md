@@ -55,7 +55,7 @@ Python for Data Science by IBM (Coursera)
 > ### Education
 > - Bachelors in Computer Science 
 University of Karachi | UBIT
-2020- ongoing
+2019- ongoing
 >
 > - Intermediate (Pre-engineering)         
 DA SKBZ College | Karachi
@@ -67,7 +67,7 @@ The Oasys School | Karachi
 
 
 
-> ### Contanct Info
+> ### Contact Info
 > **Phone**: +92 317 2456854
 >
 > **Email**: omer.anzar2@gmail.com
