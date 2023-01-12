@@ -20,6 +20,11 @@ I am currently doing my bachelor's in computer science. I have a good understand
 </details>
 
 <details open>
+  <summary><b>Karachi 3D City</b></summary>
+  <p>Completed a project as group on procedural city generation using THREE.js, featuring random building generation, custom camera controls, and added features such as Quaid-e-Azam and rickshaw models, and two camera views for top-down and side perspectives.</p>
+</details>
+
+<details open>
   <summary><b>Finite State Machines Turn Based Game (Finite Ball)</b></summary>
   <p>A two-player 2D soccer game similar to air hockey, with transition-based movement and actual In-elastic collision physics.</p>
 </details>
