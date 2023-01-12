@@ -44,11 +44,11 @@ Python for Data Science by IBM (Coursera)
 <hr>
 
 > ### Skill Highlights
-> - Python
+> - NumPy, pandas
 >
-> - JavaScript
+> - SnapML, scikit-learn 
 >
-> - Java
+> - Python, Java
 >
 > - Basic Front-end of web development
 
