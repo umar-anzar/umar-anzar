@@ -70,9 +70,8 @@ The Oasys School | Karachi
 
 
 > ### Contact Info
-> **Phone**: +92 317 2456854
->
-> **Email**: omer.anzar2@gmail.com
+- **Phone**: +92 317 2456854
+- **Email**: omer.anzar2@gmail.com
 
 
   <!--
