@@ -5,7 +5,7 @@
 <img align="right" width="30%" alt="my profile picture" src="images_icons/me.jpg">
 
 ## About me
-I am currently doing my bachelor's in computer science. I have a good understanding of programming languages and the fundamentals of Artificial intelligence. My working experience with Python libraries has been exceptional. With my hard work and determination, I can make a difference in this profession.
+As a computer science student, I possess a strong understanding of programming languages and a passion for Artificial Intelligence. My experience with Python libraries has been exceptional and has sharpened my analytical and problem-solving skills. Determined to make a difference in the field through hard work and dedication.
 
 ## Projects
 
