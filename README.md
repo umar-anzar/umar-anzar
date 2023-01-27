@@ -41,34 +41,29 @@ As a computer science student, I possess a strong understanding of programming l
 
 ## Certifications
 
-Machine Learning with Python by IBM (Coursera)
-
-Python for Data Science by IBM (Coursera)
-
-HTML | CSS | JS | Responsive Design by University of Michigan (Coursera)
+- Machine Learning with Python by IBM (Coursera)
+- Python for Data Science by IBM (Coursera)
+- HTML | CSS | JS | Responsive Design by University of Michigan (Coursera)
 
 
 <hr>
 
-> ### Skill Highlights
-> - NumPy, pandas
->
-> - SnapML, scikit-learn 
->
-> - Python, Java
->
-> - Basic Front-end of web development
+### Skill Highlights
+- NumPy, pandas
+- SnapML, scikit-learn 
+- Python, Java
+- Basic Front-end of web development
 
-> ### Education
-> - Bachelors in Computer Science 
+### Education
+- Bachelors in Computer Science                                    
 University of Karachi | UBIT
 2019- ongoing
->
-> - Intermediate (Pre-engineering)         
+
+- Intermediate (Pre-engineering)         
 DA SKBZ College | Karachi
 2017-2019
->
-> - Cambridge O level                                   
+
+- Cambridge O level                                   
 The Oasys School | Karachi
 2015-2017 
 
