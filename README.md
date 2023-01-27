@@ -20,13 +20,13 @@ I am currently doing my bachelor's in computer science. I have a good understand
 </details>
 
 <details open>
-  <summary><b>Karachi 3D City</b></summary>
-  <p>Completed a project as group on procedural city generation using THREE.js, featuring random building generation, custom camera controls, and added features such as Quaid-e-Azam and rickshaw models, and two camera views for top-down and side perspectives.</p>
+  <summary><b>3D Procedural City Generation of Karachi using THREE.js </b></summary>
+  <p>Procedural City Generation in THREE.js: Random Buildings, Custom Camera, Quaid-e-Azam and Rickshaw Models, and Three Perspectives.</p>
 </details>
 
 <details open>
   <summary><b>Finite State Machines Turn Based Game (Finite Ball)</b></summary>
-  <p>A two-player 2D soccer game similar to air hockey, with transition-based movement and actual In-elastic collision physics.</p>
+  <p>A two-player 2D soccer game (Pygame) similar to air hockey, with transition-based movement and actual In-elastic collision physics.</p>
 </details>
 
 <details open>
@@ -40,10 +40,12 @@ I am currently doing my bachelor's in computer science. I have a good understand
 </details>
 
 ## Certifications
-HTML | CSS | JS | Responsive Design by University of Michigan (Coursera)
+
+Machine Learning with Python by IBM (Coursera)
 
 Python for Data Science by IBM (Coursera)
 
+HTML | CSS | JS | Responsive Design by University of Michigan (Coursera)
 
 
 <hr>
@@ -105,7 +107,7 @@ The Oasys School | Karachi
   <a href="https://twitter.com/paradox_omer" target="_blank" title="twitter">
     <image align="center" src="images_icons/twitter.png" width="10%" alt="Umar's twitter account">
   </a>
-   <a  target="_blank" href=https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa" title="linkedin">
+   <a  target="_blank" href="https://www.linkedin.com/in/muhmmad-umar-anzar-a543ba1aa" title="linkedin">
     <image align="center" src="images_icons/linkedin.png" width="10%" alt="Umar's twitter account">
   </a>  
 </p>
