@@ -91,7 +91,7 @@ The Oasys School | Karachi
 
 
 <h2 align="center">How To Reach Me</h2>
-<p align ="center">
+<div align ="center">
   <a href="mailto:omer.anzar2@gmail.com" target="_blank" title="gmail">
     <image align="center" src="images_icons/gmail.png" width="7%" alt="Umar's Email">
   </a>
@@ -104,4 +104,4 @@ The Oasys School | Karachi
    <a  target="_blank" href="https://www.linkedin.com/in/umar-anzar" title="linkedin">
     <image align="center" src="images_icons/linkedin.png" width="7%" alt="Umar's twitter account">
   </a>  
-</p>
+</div>
