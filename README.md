@@ -10,8 +10,13 @@ As a computer science student, I possess a strong understanding of programming l
 ## Projects
 
 <details open>
+  <summary><b>Kaggle Challenge – Titanic: ML from Disaster</b></summary>
+  <p>Using manual & auto hyperparameter search and voting classifier for improved accuracy.</p>
+</details>
+
+<details open>
   <summary><b>Computer Vision and Object Detection API</b></summary>
-  <p>A PYQT-based GUI hand gesture recognition application that interprets human hand gestures to form words that are then turned into sentences using Key2Text.</p>
+  <p>A PYQT-based GUI hand gesture recognition application that interprets human hand gestures to form. Although I did not have the opportunity to work on it professionally, I gained experience in using computer vision and object detection APIs.</p>
 </details>
 
 <details open>
@@ -53,6 +58,14 @@ As a computer science student, I possess a strong understanding of programming l
   - Introduction to Statistics
 - University of Michigan (Coursera)
   - HTML | CSS | JS | Responsive Design
+
+## Competitions
+- Kaggle Challenge – Titanic: ML
+  - Achieved 78.7% accuracy
+
+- Procom’23 – Data Scientist
+  - Achieved second-best accuracy and Third position overall. 
+
 
 
 <hr>
