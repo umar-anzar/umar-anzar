@@ -72,6 +72,7 @@ As a computer science student, I possess a strong understanding of programming l
 
 ### Skill Highlights
 - NumPy, pandas
+- Matplotlib, Seaborn
 - SnapML, scikit-learn 
 - Python, Java
 - Basic Front-end of web development
