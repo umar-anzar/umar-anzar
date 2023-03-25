@@ -2,7 +2,7 @@
 
 # Muhammad Umar Anzar
 
-<img align="right" width="30%" alt="my profile picture" src="images_icons/me.jpg">
+<img align="right" width="30%" alt="my profile picture" src="images_icons/IMG20230309134318.jpg">
 
 ## About me
 As a computer science student, I possess a strong understanding of programming languages and a passion for Artificial Intelligence. My experience with Python libraries has been exceptional and has sharpened my analytical and problem-solving skills. Determined to make a difference in the field through hard work and dedication.
