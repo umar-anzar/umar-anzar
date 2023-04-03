@@ -35,11 +35,6 @@ As a computer science student, I possess a strong understanding of programming l
 </details>
 
 <details open>
-  <summary><b>Kaggle Challenge – Titanic: Machine Learning from Disaster</b></summary>
-  <p>Achieved 78.7% accuracy using manual & auto hyperparameter search and voting classifier for improved accuracy.</p>
-</details>
-
-<details open>
   <summary><b>Python Discord API (Galileo)</b></summary>
   <p>A Heroku-hosted Discord bot with some of my own custom basic commands.</p>
 </details>
