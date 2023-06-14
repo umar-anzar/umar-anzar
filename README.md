@@ -1,6 +1,7 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 
 # Muhammad Umar Anzar
+**Computer Scientist**
 
 <img align="right" width="30%" alt="my profile picture" src="images_icons/IMG20230309134318.jpg">
 
