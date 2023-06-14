@@ -88,7 +88,8 @@ the field.
 ### Education
 - Bachelors in Computer Science                                    
 University of Karachi | UBIT
-2019- ongoing
+CGPA: 3.57
+2019- Present
 
 - Intermediate (Pre-engineering)         
 DA SKBZ College | Karachi
@@ -99,27 +100,9 @@ The Oasys School | Karachi
 2015-2017 
 
 
-
 ### Contact Info
 - **Phone**: +92 317 2456854
 - **Email**: omer.anzar2@gmail.com
-
-
-  <!--
-  **omer-anzar/omer-anzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
-
 
 <h2 align="center">How To Reach Me</h2>
 <div align ="center">
