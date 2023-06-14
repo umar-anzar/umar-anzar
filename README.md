@@ -10,6 +10,23 @@ worked on data science projects and am familiar with the fundamental front-end a
 a collaborative team player with good communication skills and a strong work ethic, and am determined to make a difference in
 the field.
 
+## Experience
+
+### Data Science Intern, the Sparks Foundation
+> April 2023 – May 2023
+- Created ML models to analyze provided datasets, forecast hidden data, and
+evaluate model precision.
+- Performed exploratory data analysis (EDA) procedures to learn new facts about
+the datasets.
+
+### AI Research Intern, National Center for Cyber Security (NCCS)
+> March 2022 – April 2022
+- Researched state-of-the-art algorithms for insider threat detection and gained
+exposure to various machine learning techniques such as recommendation
+systems and BERT.
+- My brief internship experience sparked my interest in the field of machine
+learning and provided valuable learning opportunities
+
 ## Projects
 
 <details open>
@@ -87,8 +104,7 @@ the field.
 
 ### Education
 - Bachelors in Computer Science                                    
-University of Karachi | UBIT
-CGPA: 3.57
+University of Karachi | UBIT | CGPA: 3.57 |
 2019- Present
 
 - Intermediate (Pre-engineering)         
