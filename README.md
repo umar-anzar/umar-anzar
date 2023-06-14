@@ -5,7 +5,10 @@
 <img align="right" width="30%" alt="my profile picture" src="images_icons/IMG20230309134318.jpg">
 
 ## About me
-As a computer science student, I possess a strong understanding of programming languages and a passion for Artificial Intelligence. My experience with Python libraries has been exceptional and has sharpened my analytical and problem-solving skills. Determined to make a difference in the field through hard work and dedication.
+I am a final-year computer science student with a strong background in logic building and programming languages. I have
+worked on data science projects and am familiar with the fundamental front-end and back-end development technologies. I am
+a collaborative team player with good communication skills and a strong work ethic, and am determined to make a difference in
+the field.
 
 ## Projects
 
@@ -66,11 +69,21 @@ As a computer science student, I possess a strong understanding of programming l
 <hr>
 
 ### Skill Highlights
-- NumPy, pandas
-- Matplotlib, Seaborn
-- SnapML, scikit-learn 
-- Python, Java
-- Basic Front-end of web development
+
+| Skills           |---------------|------------|------------|
+|------------------|---------------|------------|------------|
+| Machine Learning |               |            |            |
+|                  | Numpy         | SnapMl     | Matplotlib |
+|                  | Scikit-learn  | Pandas     | Seaborn    |
+|                  | Scipy         |            |            |
+| Web Development  |---------------|------------|------------|
+|                  | JavaScript    | NodeJs     | Html       |
+|                  | ThreeJs       | ExpressJs  | Css        |
+|                  | Scipy         |            |            |
+| Database         |---------------|------------|------------|
+|                  | MongoDb       | PostgreSQL | SQL Server |
+
+
 
 ### Education
 - Bachelors in Computer Science                                    
