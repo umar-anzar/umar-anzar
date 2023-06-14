@@ -70,9 +70,9 @@ the field.
 
 ### Skill Highlights
 
-| Skills           |---------------|------------|------------|
+| Skills           |               |            |            |
 |------------------|---------------|------------|------------|
-| Machine Learning |               |            |            |
+| Machine Learning |---------------|------------|------------|
 |                  | Numpy         | SnapMl     | Matplotlib |
 |                  | Scikit-learn  | Pandas     | Seaborn    |
 |                  | Scipy         |            |            |
