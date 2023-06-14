@@ -96,7 +96,6 @@ learning and provided valuable learning opportunities
 | Web Development  |---------------|------------|------------|
 |                  | JavaScript    | NodeJs     | Html       |
 |                  | ThreeJs       | ExpressJs  | Css        |
-|                  | Scipy         |            |            |
 | Database         |---------------|------------|------------|
 |                  | MongoDb       | PostgreSQL | SQL Server |
 
