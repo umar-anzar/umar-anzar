@@ -30,6 +30,22 @@ systems and BERT.
 - My brief internship experience sparked my interest in the field of machine
 learning and provided valuable learning opportunities
 
+## Skill Highlights
+
+| Skills           |               |            |            |
+|------------------|---------------|------------|------------|
+| Machine Learning |---------------|------------|------------|
+|                  | Numpy         | SnapMl     | Matplotlib |
+|                  | Scikit-learn  | Pandas     | Seaborn    |
+|                  | Scipy         |            |            |
+| Web Development  |---------------|------------|------------|
+|                  | JavaScript    | NodeJs     | Html       |
+|                  | ThreeJs       | ExpressJs  | Css        |
+| Database         |---------------|------------|------------|
+|                  | MongoDb       | PostgreSQL | SQL Server |
+
+
+
 ## Projects
 
 <details open>
@@ -108,21 +124,6 @@ learning and provided valuable learning opportunities
 
 
 <hr>
-
-### Skill Highlights
-
-| Skills           |               |            |            |
-|------------------|---------------|------------|------------|
-| Machine Learning |---------------|------------|------------|
-|                  | Numpy         | SnapMl     | Matplotlib |
-|                  | Scikit-learn  | Pandas     | Seaborn    |
-|                  | Scipy         |            |            |
-| Web Development  |---------------|------------|------------|
-|                  | JavaScript    | NodeJs     | Html       |
-|                  | ThreeJs       | ExpressJs  | Css        |
-| Database         |---------------|------------|------------|
-|                  | MongoDb       | PostgreSQL | SQL Server |
-
 
 
 ### Education
