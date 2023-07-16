@@ -41,18 +41,39 @@ learning and provided valuable learning opportunities
 </details>
 
 <details open>
-  <summary><b>Object-Oriented Programming Application (Hazir)</b></summary>
+  <summary>
+    <a href="https://github.com/umar-anzar/ubitJavaProject"  target="_blank">
+      <b>Object-Oriented Programming Application (Hazir)</b>
+  </a>
+  </summary>
   <p>A service-providing application prototype built in Java Swing GUI using SQLite as the database.</p>
 </details>
 
 <details open>
-  <summary><b>3D Procedural City Generation of Karachi using THREE.js </b></summary>
+  <summary>
+    <a href="https://github.com/umar-anzar/karachi-city-computer-graphics"  target="_blank">
+      <b>3D Procedural City Generation of Karachi using THREE.js </b>
+    </a>
+  </summary>
   <p>Procedural City Generation in THREE.js: Random Buildings, Custom Camera, Quaid-e-Azam and Rickshaw Models, and Three Perspectives.</p>
 </details>
 
 <details open>
-  <summary><b>Finite State Machines Turn Based Game (Finite Ball)</b></summary>
+  <summary>
+    <a href="https://github.com/umar-anzar/finite-ball-the-game"  target="_blank">
+      <b>Finite State Machines Turn Based Game (Finite Ball)</b>
+    </a>
+  </summary>
   <p>A two-player 2D soccer game (Pygame) similar to air hockey, with transition-based movement and actual In-elastic collision physics.</p>
+</details>
+
+<details open>
+  <summary>
+    <a href="https://github.com/umar-anzar/Front-End-Compiler-Project"  target="_blank">
+      <b>Mio Programming Language - Front-End-Compiler-Project</b>
+    </a>
+  </summary>
+  <p>MIO programming language features a front-end compiler that performs lexical, syntactic, and semantic analysis.</p>
 </details>
 
 <details open>
