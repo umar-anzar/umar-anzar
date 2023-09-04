@@ -15,6 +15,10 @@ the field.
 
 ## Experience
 
+### Data Science Trainer, Applied DataLab
+>August 2023 – Present
+- Providing programming assistance to the class and facilitating the preparation of assignments.
+
 ### Data Science Intern, the Sparks Foundation
 > April 2023 – May 2023
 - Created ML models to analyze provided datasets, forecast hidden data, and
