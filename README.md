@@ -54,6 +54,12 @@ learning and provided valuable learning opportunities
 ## Projects
 
 <details open>
+  <summary><b>Ongoing Final Year Project: Haazir - On-Demand Service Providing App</b></summary>
+  <p>A service-providing mobile app basically takes the idea of ride-hailing services like Careem and Uber and transforms it into a service-providing system so that people can hire these services from the comfort of their homes instead of searching various places to find these workers.</p>
+</details>
+
+
+<details open>
   <summary><b>Kaggle Challenge – Titanic: ML from Disaster</b></summary>
   <p>Using manual & auto hyperparameter search and voting classifier for improved accuracy.</p>
 </details>
