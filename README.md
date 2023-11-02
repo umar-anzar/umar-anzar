@@ -15,8 +15,12 @@ the field.
 
 ## Experience
 
+### Machine Learning Engineer, SeedInov
+>October 2023 – Present (Part-time & Remote)
+- Providing programming assistance to the class and facilitating the preparation of assignments.
+
 ### Data Science Trainer, Applied DataLab
->August 2023 – Present
+>August 2023 – Present (Freelance & On-site)
 - Providing programming assistance to the class and facilitating the preparation of assignments.
 
 ### Data Science Intern, the Sparks Foundation
