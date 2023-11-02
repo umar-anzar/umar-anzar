@@ -15,22 +15,22 @@ the field.
 
 ## Experience
 
-### Machine Learning Engineer, SeedInov
+### Machine Learning Engineer, [SeedInov](https://seedinov.com)
 >October 2023 – Present (Part-time & Remote)
 - Researching and implementing machine learning and AI solutions to improve the company's products and services.
 
-### Data Science Trainer, Applied DataLab
+### Data Science Trainer, [Applied DataLab](http://applieddatalab.com)
 >August 2023 – Present (Freelance & On-site)
 - Providing programming assistance to the class and facilitating the preparation of assignments.
 
-### Data Science Intern, the Sparks Foundation
+### Data Science Intern, [the Sparks Foundation](https://www.thesparksfoundationsingapore.org)
 > April 2023 – May 2023
 - Created ML models to analyze provided datasets, forecast hidden data, and
 evaluate model precision.
 - Performed exploratory data analysis (EDA) procedures to learn new facts about
 the datasets.
 
-### AI Research Intern, National Center for Cyber Security (NCCS)
+### AI Research Intern, [National Center for Cyber Security (NCCS)](https://www.nccs.pk)
 > March 2022 – April 2022
 - Researched state-of-the-art algorithms for insider threat detection and gained
 exposure to various machine learning techniques such as recommendation
