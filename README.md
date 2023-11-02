@@ -6,7 +6,7 @@
 <img align="right" width="30%" alt="my profile picture" src="images_icons/IMG20230309134318.jpg">
 
 ## About me
-I am a final-year computer science student with a strong background in logic building and programming languages. I have
+I am a bachelor's final-year computer science student with a strong background in logic building and programming languages. I have
 worked on data science projects and am familiar with the fundamental front-end and back-end development technologies. I am
 a collaborative team player with good communication skills and a strong work ethic, and am determined to make a difference in
 the field.
