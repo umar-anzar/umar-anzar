@@ -56,7 +56,7 @@ learning and provided valuable learning opportunities
 <details open>
   <summary>
     <a href="https://github.com/umar-anzar/datacamp-spotify-competition"  target="_blank"> 
-      <b>🏆 Datacamp 2023 Create the perfect party playlist Winner Notebook</b>
+      <b>🏆 Datacamp 2023 Competition Winner Notebook</b>
     </a>
   </summary>
   <p>1st Position Winners of the DataCamp "Create the Perfect Party Playlist" Competition 2023 (Umar & Faizan).</p>
