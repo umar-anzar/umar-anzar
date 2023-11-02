@@ -54,10 +54,18 @@ learning and provided valuable learning opportunities
 ## Projects
 
 <details open>
+  <summary>
+    <a href="https://github.com/umar-anzar/datacamp-spotify-competition"  target="_blank"> 
+      <b>🏆 Datacamp 2023 Create the perfect party playlist Winner Notebook</b>
+    </a>
+  </summary>
+  <p>1st Position Winners of the DataCamp "Create the Perfect Party Playlist" Competition 2023 (Umar & Faizan).</p>
+</details>
+
+<details open>
   <summary><b>Ongoing Final Year Project: Haazir - On-Demand Service Providing App</b></summary>
   <p>A service-providing mobile app basically takes the idea of ride-hailing services like Careem and Uber and transforms it into a service-providing system so that people can hire these services from the comfort of their homes instead of searching various places to find these workers.</p>
 </details>
-
 
 <details open>
   <summary><b>Kaggle Challenge – Titanic: ML from Disaster</b></summary>
@@ -106,7 +114,7 @@ learning and provided valuable learning opportunities
 </details>
 
 <details open>
-  <summary><b>Python Discord API (Galileo)</b></summary>
+  <summary><b>Python Discord API (Galileo-Private)</b></summary>
   <p>A Heroku-hosted Discord bot with some of my own custom basic commands.</p>
 </details>
 
