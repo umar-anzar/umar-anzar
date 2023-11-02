@@ -17,7 +17,7 @@ the field.
 
 ### Machine Learning Engineer, SeedInov
 >October 2023 – Present (Part-time & Remote)
-- Providing programming assistance to the class and facilitating the preparation of assignments.
+- Researching and implementing machine learning and AI solutions to improve the company's products and services.
 
 ### Data Science Trainer, Applied DataLab
 >August 2023 – Present (Freelance & On-site)
