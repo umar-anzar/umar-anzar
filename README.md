@@ -11,7 +11,7 @@ worked on data science projects and am familiar with the fundamental front-end a
 a collaborative team player with good communication skills and a strong work ethic, and am determined to make a difference in
 the field.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-anzar&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-anzar&show_icons=true&theme=tokyonight)
 
 ## Experience
 
