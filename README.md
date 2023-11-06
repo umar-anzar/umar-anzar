@@ -13,6 +13,8 @@ the field.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-anzar&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-anzar&langs_count=8&layout=compact&theme=tokyonight)
+
 ## Experience
 
 ### Machine Learning Engineer, [SeedInov](https://seedinov.com)
