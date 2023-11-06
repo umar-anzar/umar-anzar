@@ -153,7 +153,7 @@ learning and provided valuable learning opportunities
 
 ### Education
 - Bachelors in Computer Science                                    
-University of Karachi | UBIT | CGPA: 3.57 |
+University of Karachi | UBIT | CGPA: 3.5 |
 2019- Present
 
 - Intermediate (Pre-engineering)         
