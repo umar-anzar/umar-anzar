@@ -18,11 +18,18 @@ the field.
 ## Experience
 
 ### Machine Learning Engineer, [SeedInov](https://seedinov.com)
->October 2023 – Present (Part-time & Remote)
+> October 2023 – Present (Part-time & Remote)
 - Researching and implementing machine learning and AI solutions to improve the company's products and services.
+- Leading ongoing projects:
+  - Multiple Medical Chatbot Specialist (Ongoing)
+    - Utilizing OpenAI's GPT-3.5 fine-tuning API & Lang Chain.
+    - Implementing the RAG (Retrieval-Augmented Generation) system with scraped data from Medline Plus.
+  - Computer Vision for detecting scope open kill time in Call of Duty (Ongoing).
+    - Applying traditional computer vision techniques for detecting kill cam sections & measuring time from scope open to kill occurrence.
+
 
 ### Data Science Trainer, [Applied DataLab](http://applieddatalab.com)
->August 2023 – Present (Freelance & On-site)
+> August 2023 – December 2023 (Freelance & On-site)
 - Providing programming assistance to the class and facilitating the preparation of assignments.
 
 ### Data Science Intern, [the Sparks Foundation](https://www.thesparksfoundationsingapore.org)
@@ -48,7 +55,7 @@ learning and provided valuable learning opportunities
 | Machine Learning |---------------|------------|------------|
 |                  | Numpy         | SnapMl     | Matplotlib |
 |                  | Scikit-learn  | Pandas     | Seaborn    |
-|                  | Scipy         |            |            |
+|                  | Scipy         | OpenCv     | OpenAI     |
 | Web Development  |---------------|------------|------------|
 |                  | JavaScript    | NodeJs     | Html       |
 |                  | ThreeJs       | ExpressJs  | Css        |
