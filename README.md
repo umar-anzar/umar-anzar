@@ -55,7 +55,7 @@ learning and provided valuable learning opportunities
 | Machine Learning |---------------|------------|------------|
 |                  | Numpy         | SnapMl     | Matplotlib |
 |                  | Scikit-learn  | Pandas     | Seaborn    |
-|                  | Scipy         | OpenCv     | OpenAI     |
+|                  | Scipy         | OpenCV     | OpenAI     |
 | Web Development  |---------------|------------|------------|
 |                  | JavaScript    | NodeJs     | Html       |
 |                  | ThreeJs       | ExpressJs  | Css        |
