@@ -23,7 +23,7 @@ the field.
 - Leading ongoing projects:
   - Multiple Medical Chatbot Specialist (Ongoing)
     - Utilizing OpenAI's GPT-3.5 fine-tuning API & Lang Chain.
-    - Implementing the RAG (Retrieval-Augmented Generation) system with scraped data from Medline Plus.
+    - Implementing the RAG (Retrieval-Augmented Generation) system with scraped data from medical resources.
   - Computer Vision for detecting scope open kill time in Call of Duty (Ongoing).
     - Applying traditional computer vision techniques for detecting kill cam sections & measuring time from scope open to kill occurrence.
 
