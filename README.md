@@ -146,6 +146,10 @@ learning and provided valuable learning opportunities
   - HTML | CSS | JS | Responsive Design
 
 ## Competitions
+
+- DataCamp – Spotify Competition
+  - Achieved 1st position
+
 - Kaggle Challenge – Titanic: ML
   - Achieved 78.7% accuracy
 
