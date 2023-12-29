@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 
 # Muhammad Umar Anzar
-**Software Developer** | **Junior Data Scientist** | **Bachelor in Computer Science**
+**Machine Learning Engineer** | **Data Scientist** | **Software Developer** | **Bachelor in Computer Science**
 
 <img align="right" width="30%" alt="my profile picture" src="images_icons/IMG20230309134318.jpg">
 
