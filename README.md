@@ -75,27 +75,13 @@ learning and provided valuable learning opportunities
 </details>
 
 <details open>
-  <summary><b>Ongoing Final Year Project: Haazir - On-Demand Service Providing App</b></summary>
+  <summary><b>Final Year Project: Haazir - On-Demand Service Providing App</b></summary>
   <p>A service-providing mobile app basically takes the idea of ride-hailing services like Careem and Uber and transforms it into a service-providing system so that people can hire these services from the comfort of their homes instead of searching various places to find these workers.</p>
-</details>
-
-<details open>
-  <summary><b>Kaggle Challenge – Titanic: ML from Disaster</b></summary>
-  <p>Using manual & auto hyperparameter search and voting classifier for improved accuracy.</p>
 </details>
 
 <details open>
   <summary><b>Computer Vision and Object Detection API</b></summary>
   <p>A PYQT-based GUI hand gesture recognition application that interprets human hand gestures to form. Although I did not have the opportunity to work on it professionally, I gained experience in using computer vision and object detection APIs.</p>
-</details>
-
-<details open>
-  <summary>
-    <a href="https://github.com/umar-anzar/ubitJavaProject"  target="_blank">
-      <b>Object-Oriented Programming Application (Hazir)</b>
-  </a>
-  </summary>
-  <p>A service-providing application prototype built in Java Swing GUI using SQLite as the database.</p>
 </details>
 
 <details open>
@@ -125,16 +111,6 @@ learning and provided valuable learning opportunities
   <p>MIO programming language features a front-end compiler that performs lexical, syntactic, and semantic analysis.</p>
 </details>
 
-<details open>
-  <summary><b>Python Discord API (Galileo-Private)</b></summary>
-  <p>A Heroku-hosted Discord bot with some of my own custom basic commands.</p>
-</details>
-
-<details open>
-  <summary><b>Python GUI application using PYQT5</b></summary>
-  <p>Simple FTP file backup application that connects to the server and downloads all files recursively for backup.</p>
-</details>
-
 ## Certifications
 
 - IBM (Coursera)
@@ -156,24 +132,7 @@ learning and provided valuable learning opportunities
 - Procom’23 – Data Scientist
   - Achieved second-best accuracy and Third position overall. 
 
-
-
 <hr>
-
-
-### Education
-- Bachelors in Computer Science                                    
-University of Karachi | UBIT | CGPA: 3.5 |
-2019- Present
-
-- Intermediate (Pre-engineering)         
-DA SKBZ College | Karachi
-2017-2019
-
-- Cambridge O level                                   
-The Oasys School | Karachi
-2015-2017 
-
 
 ### Contact Info
 - **Phone**: +92 317 2456854
