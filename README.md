@@ -135,7 +135,6 @@ learning and provided valuable learning opportunities
 <hr>
 
 ### Contact Info
-- **Phone**: +92 317 2456854
 - **Email**: omer.anzar2@gmail.com
 
 <h2 align="center">How To Reach Me</h2>
