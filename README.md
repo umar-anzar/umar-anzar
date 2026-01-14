@@ -10,15 +10,18 @@ creativity, dedicated to delivering innovative solutions that resonate in the te
 
 ## Experience
 
-### Machine Learning Engineer, [SeedInov](https://seedinov.com)
-> October 2023 – Present (Part-time & Remote)
-- Researching and implementing machine learning and AI solutions to improve the company's products and services.
-- Leading ongoing projects:
-  - Multiple Medical Chatbot Specialist (Ongoing)
-    - Utilizing OpenAI's GPT-3.5 fine-tuning API & Lang Chain.
-    - Implementing the RAG (Retrieval-Augmented Generation) system with scraped data from medical resources.
-  - Computer Vision for detecting scope open kill time in Call of Duty (Ongoing).
-    - Applying traditional computer vision techniques for detecting kill cam sections & measuring time from scope open to kill occurrence.
+### Senior AI Engineer at Covalent, Karachi (Fintech | Onsite | Full-time)
+> Jan 2024 – Present
+* Build LLM and computer vision-based AI solutions to enhance fintech products using PyTorch, TensorFlow, and OpenCV.
+* Managed model training, fine-tuning, and evaluation, maintaining high accuracy and performance standards.
+* Implemented end-to-end AI solutions, including facial recognition, document verification, OCR, and transliteration, as part of Project KYC, ensuring high accuracy and real-world reliability.
+* Delivered AI products including Project KYC (AI onboarding APIs) and Financial Bot for natural conversational banking assistance.
+
+### AI/ML Engineer Lead at SeedInov, Karachi (Start-Up | Remote | Part-time)
+> Oct 2023 – July 2025
+* Led AI initiatives by researching, designing, optimizing, and deploying AI solutions using OpenAI, TensorFlow, and PyTorch.
+* Supervised a small team of AI developers to deliver high-impact solutions and conduct performance optimizations.
+* Delivered AI projects and tools across domains, including education, healthcare, and gaming.
 
 
 ## Competitions
