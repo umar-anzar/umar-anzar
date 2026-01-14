@@ -26,10 +26,10 @@ creativity, dedicated to delivering innovative solutions that resonate in the te
 
 ## Competitions
 
-- [DataCamp – Spotify Competition](https://github.com/umar-anzar/datacamp-spotify-competition)
+* Founder of [Hoopoes](https://github.com/Hoopoes) Open-Source Community
+* [DataCamp – Spotify Competition](https://github.com/umar-anzar/datacamp-spotify-competition)
   - Achieved 🏆 1st position
-
-- Procom’23 – Data Scientist
+* Procom’23 – Data Scientist
   - Achieved second-best accuracy and Third position overall. 
 
 <hr>
